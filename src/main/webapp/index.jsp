@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Custom Website by Preethi</title>
+	<title>Custom Website</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
