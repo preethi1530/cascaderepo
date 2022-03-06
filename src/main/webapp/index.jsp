@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<div class="wrapper">
+<div class="wrapper">
 			<nav class="navbar">
 				<img class="logo" src="logo.png">
 				<ul>
@@ -24,6 +24,6 @@
 			<button>Explore More</button>
 			<button class="btn2">Subscribe Us</button>
 		</div>
-		</div>
+		</div>	
 </body>
 </html>
